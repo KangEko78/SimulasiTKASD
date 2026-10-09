@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/bahasa",
+      "destination": "/bahasa.html"
+    },
+    {
+      "source": "/matematika",
+      "destination": "/matematika.html"
+    }
+  ]
+}
